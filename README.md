@@ -1,6 +1,6 @@
 # Challenge DataScience 2022 Alura
 
-O Objetivo desta challenge é criar para a empresa Alura Voz um conjunto de análises e modelos de machine learning supervisionados, para auxiliar na fidelização dos seus clientes de maneira mais assertiva.
+O Objetivo desta challenge é criar para a empresa Alura Voz um conjunto de análises e modelos de machine learning supervisionados, para auxiliar na fidelização dos seus clientes de maneira mais assertiva analisando o 'churn' dos clientes informado nos dados disponibilizados. 
 
 
 - Semana 1: Preparação e limpeza dos dados trazidos de uma API da AluraVoz 
